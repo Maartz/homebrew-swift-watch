@@ -1,9 +1,9 @@
 class SwiftWatch < Formula
   desc 'Swift Watch: Automatically build, test, run, or analyze Swift projects on file changes'
   homepage 'https://github.com/Maartz/homebrew-swift-watch'
-  url 'https://github.com/Maartz/Swift-Watch/archive/refs/tags/1.0.1.tar.gz'
+  url 'https://github.com/Maartz/Swift-Watch/archive/refs/tags/1.0.2.tar.gz'
   version '1.0.0'
-  sha256 'a56b30aa77bfbfafbc3ef84639df0fed81505121d1fab743c1a893e0e97ad211'
+  sha256 '2b9eaa264c216e0c5b007e3c7d34d38c168081e9d5e239e84efa06a15971e89b'Z
 
   depends_on 'entr'
 
